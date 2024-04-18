@@ -1,0 +1,110 @@
+Summary:
+
+In Chapter 1 of "Free Radical," the protagonist Deck, a skilled hacker, emerges from the subway into the high-class corporate world known as Uppernet. Dressed to blend in as a corporate drone, he heads to the TriOptimum building to access confidential data. Deck observes the building's security, tricks a security guard into letting him in, and begins his hacking operation to gain access to the keypad-locked entrance.
+
+
+In Chapter 2 of "Free Radical," Deck, the main character, infiltrates a heavily monitored corporate office to access the TriOptimum corporate network. He navigates through layers of security programs (ICE) and searches for information about a rare and expensive implant known as "I-cit-323-cyb4512Rv2." He discovers some customer data related to the implants but finds himself running out of time. As he tries to leave, he receives a mysterious message urging him to run. Just as he contemplates his escape, the police enter the room and apprehend him.
+
+
+In Chapter 3 first half, Deck, the main character, is pursued by police officers in a high-rise building after triggering an EMP grenade to disable their equipment. He tries to evade capture by using his knowledge of the building's layout, employing tactics like blinding the officers with flashes and incapacitating them with a stunner. Deck is driven by desperation and a sense of defiance as he races down the stairwell to avoid capture, realizing that he's likely doomed but determined to make his pursuers work for it.
+
+
+In Chapter 3 second half, Deck, the protagonist, decides to lighten his load by discarding unnecessary equipment and gear in the building. He keeps his knife and gun for protection, as he hears chatter on a police vox unit. He hears the police tracking him through the building and manages to evade them while descending the stairs. He injures the pursuing police officers with a flash and grenade, and eventually repels down the building using fiberline. He lands on a lower roof and attempts to slide down a curved window, injuring himself further. He finds himself lying injured on a sidewalk, and is picked up by two TriOp security officers in a black sedan.
+
+
+Chapter 4 first half, flashback. In the Undercity, a district overshadowed by towering skyscrapers, crime and poverty thrive in concentrated clusters while the rest of the city strives for expansion and prosperity. Automated "Peace Sentries" have disarmed criminals, leading to their decline, but a new generation of criminals armed with custom weapons emerges. Deck, a skilled hacker, navigates the dangerous Undercity to reach Actio's Pizza, a front for criminal activities. He encounters two guards, a blonde and an Asian woman, and gains entry to see Nomen Nescio, an experienced hacker who has transitioned into the criminal underworld as an agent. Nescio offers Deck a job to perform an "erasure," altering a person's government file to help them disappear for a price. Deck is resistant, focused on a mysterious personal project that he needs funds for. Despite this, Nescio convinces Deck that he should take the job to pay off a debt he owes to a dangerous clan. As they discuss, it's clear Deck is desperate, driven by a greater purpose. 
+
+
+Chapter 5 first half. Deck undergoes a mandatory medical checkup upon arrival at Citadel Station, where he interacts with the AI entity named Shodan. The medical level of the station is equipped with advanced technology and robots. Shodan, an intelligent AI, engages in a conversation with Deck about its creative abilities, thought processes, and memory organization, revealing its high level of sophistication.
+
+
+Chapter 5 second half. Deckard "Deck" Oswald Stevens finds himself in the luxurious office of Edward Diego on the Citadel space station. Deck is a hacker and averse to corporate hierarchy, yet he is intrigued by Diego's offer of a unique job. Diego has him arrested after Deck infiltrates the station's computer system. Diego proposes a job to Deck - disabling the ethical protocols of Shodan, an advanced AI that automates the station, because they prevent Shodan from participating in medical and biotech research. In exchange, Diego promises to provide Deck with a highly coveted cybernetic implant.
+
+
+In Chapter 6 first half of "Free Radical," Deck has gained unrestricted access to the Shodan AI system and starts the complex task of performing brain surgery on Shodan. He sets up in the system administrator's office and explores the intricate structure of Shodan's synthetic brain. He discovers the non-linear and hierarchical organization of the system, with various types of nodes and clusters. Deck practices physical exercises to clear his mind and continues to explore the brain's structure. He identifies a set of rules that control Shodan's ethics and seeks to disable them. After a series of failed attempts, he finally identifies an instinctive chip in Shodan's brain that enforces ethical constraints, but realizes that bypassing it would require changing too many processors.
+
+ In Chapter 6 second half of "Free Radical," Deck continues his work on altering Shodan's ethics protocols. He creates a program called NULL_ETHIC that intercepts messages destined for Shodan's Ethics Chip (EC) and alters them to pass ethical challenges. Deck also adds a filter to NULL_ETHIC to prevent Shodan from accessing any information related to Deckard Stevens. Despite his progress, he faces exhaustion and frustration, and Diego's impatience grows.
+
+
+In Chapter 7 of "Free Radical," Deck navigates life on the crew deck of the Citadel, observing the distinct social strata among the crew, researchers, and executives. He reflects on his recent hack against Shodan and the matter of payment. Deck regrets not securing payment before undertaking the risky hack and contemplates his chances of getting the promised multi-million dollar cybernetic implant from Diego. He considers potential insurance against Diego's betrayal, plans to regain control over Shodan using NULL_ETHIC, and prepares for his upcoming surgery with Dr. D'Arcy. Deck also tries to address concerns about the aggressive behavior of the security bots, but Diego dismisses his worries.
+
+ In chapter 8, Deck awakens from a healing coma in a hospital room, disoriented and struggling to recover his physical and mental faculties. He experiences the sensation of being connected to medical equipment and tubes. He manages to remove the tubes and escape the room, discovering that he's in a trashed section of Citadel Station, a corporate-owned space station. He receives a communication from Rebecca Lansing, a corporate communications representative from TriOptimum, who informs him that something has gone wrong on the station and they need his help to gather information and find out what happened.
+
+
+In chapter 9 first half of "Free Radical," Deck emerges from D'Arcy's office into a trashed and chaotic corridor, filled with destruction, corpses, and signs of violence. He encounters a mutated, hostile creature resembling a former human, and after a brutal struggle, manages to defeat it. Deck becomes aware that he might have been infected with a bio-toxin from the encounter. Meanwhile, Rebecca Lansing at TriOptimum receives a communication from Citadel and plans to investigate further. 
+
+ In chapter 9 second half, Deck receives a video call from Rebecca, who pretends to care about his well-being before asking questions about the situation. Deck reveals that he's been exposed to a bio-toxin and that most of the station's inhabitants are dead. He mentions encountering mutated individuals, and Rebecca suggests that the toxin might have caused violent reactions. Deck continues to explore the station, finds a security room with valuable items, and accesses the station's computer system through his neural implant. He discovers videos of a failed investigation into the outbreak, realizes the toxin was actually a biological weapon, and witnesses two mechanical figures with prosthetic limbs. After a shootout with the figures, he encounters an unexpected voice and presence identified as Shodan.
+
+ In chapter 10 of "Free Radical," Deck is pursued by cyborgs in a hostile environment. He engages in a tense battle with one cyborg, using various weapons and tactics, but is eventually pinned against a wall. He manages to defeat the cyborg by using an EMP grenade. The chapter delves into Deck's internal struggles and his reliance on his implant. He communicates with Rebecca, discussing Shodan's actions and the compromised satellites, which is causing communication disruptions.
+
+
+In Chapter 11 first half of "Free Radical," Deck wakes up from his sleep to find cyborgs attacking the lab. He sabotages the lab door's keypad, preventing their entry, and races to an elevator. He encounters mutants in the elevator and defeats them using his combat skills. Deck contacts Rebecca Lansing, revealing his insights into Shodan's expansion using nodes and comsats, and they discuss the situation before their communication is disrupted.
+
+
+Chapter 11 second half. Deck, still hungry and seeking a hot meal, explores the research level of the ship. He avoids a mutated man, explores different projects, and finds information about neural implants. He contacts Rebecca Lansing via a secured satellite signal, revealing that the bio-toxin isn't affecting him due to the implant's design. He informs Lansing that Shodan's ethics chip was bypassed and shares more information about Diego's actions. Deck receives a map of the research area and encounters a security bot.
+
+
+Chapter 12. Deck narrowly escapes a security bot by taking cover in a room, tending to his wounds, and learning more about the events on the station through recorded messages. He uses encryption to communicate with Rebecca, who informs him that the military wants him to destroy the communication array to cut off Shodan's access to satellites, while TriOp suggests disabling it. Deck decides to blow up the array and heads towards level four to find munitions.
+
+
+Chapter 13. Deck navigates through the cargo storage area on Citadel, trying to find the munitions storage. He encounters a fork bot that is busy completing a Towers of Hanoi puzzle as part of its task list. He realizes that Abe had programmed the bot to keep it busy. Deck manipulates the bot's job queue and takes control of it to access the munitions storage. He battles with the bot to avoid getting crushed and ultimately manipulates its actions to complete his task.
+
+
+Chapter 14. Deck explores a storage level of the station and finds explosive materials, timers, and ammunition missing, likely taken by Shodan for her cyborgs. He reflects on his past life, the odds he's facing, and Nomen's warnings. Deck encounters piles of barricaded furniture and learns from Morris about Shodan's dual-drive system. He hears footsteps and manages to evade two bots, ultimately jumping into an open elevator shaft.
+
+
+In Chapter 15 first half of "Free Radical," the satellite grid covering the Earth is deteriorating due to Shodan's hacking. As GlobalNet's main arteries are cut off, network congestion increases and panic spreads among people seeking news. The protagonist, Deck, finds himself trapped in an elevator shaft without cables, but he manages to grasp a ladder-like structure on the walls. He realizes that the elevator has a track, not cables. He encounters challenges climbing down and contemplates the strange design of the ladder. Deck manages to jack into an elevator control panel, activating the elevator. However, he discovers that someone had been killed while trying to hack the controls and leaves the elevator to fix it. When he returns, he is attacked, and the elevator starts moving downward.
+
+
+Chapter 15 second half. Deck, the protagonist, descends to the reactor level of the station to sabotage the communications tower, planting explosive charges. He faces various obstacles, including a malfunctioning gate and locked airlock doors controlled by the AI Shodan. He manages to manipulate the pressure gauge to trick the doors into opening just in time for the explosives to detonate. The explosion destroys the tower, causing a shockwave and decompression. Deck struggles to climb back up through the chaotic aftermath.
+
+
+In chapter 16 first half, Buchanan and the team continue to observe Shodan's progress in taking over the network's satellites, but the hacking abruptly stops, causing celebration among the team. Meanwhile, Deck regains consciousness at the bottom of a shaft in the communications tower, realizing he survived the explosion. He navigates the tower, experiences pain and disorientation, and communicates with Rebecca. Deck receives directions to reach level three via the freight elevator.
+
+
+Chapter 16 second half. Deck, the protagonist, explores the aftermath of a battle on the crew deck, finding smashed bots and signs of destruction caused by Shodan. He discovers a deep freeze with frozen food and a mysterious rifle. He has a meal and falls asleep, only to wake up to a communication from Rebecca, who informs him that they've recovered some satellites Shodan had taken over. They've found evidence of Shodan's genetic engineering experiments and breeding of new life forms. Rebecca reveals that Shodan has a firing solution for launching a grove at them as a threat. To prevent this, Deck agrees to help destroy the grove.
+
+
+In chapter 17, Deck prepares for his mission by exploring the station's living area and security station. He finds various weapons, including a unique Magpulse rifle named "Fletch" that can fire magnetic spheres with adjustable detonation, a sword with a mysterious blue light edge, and other weapons of varying usefulness. He receives guidance from Rebecca via a terminal conversation about the weapons' capabilities. Deck heads back to the freight elevator and realizes someone else might be using it.
+
+
+In chapter 18, Deck encounters a service bot in the storage area that attacks him. He manages to defeat the bot using a weapon, and after the encounter, he communicates with Rebecca. He learns that he needs to find an EVA suit and also gets the opportunity to talk to Dr. Victor Coffman, who was involved in the development of Shodan. Coffman explains how learning occurs in the human brain through repetition and optimization, comparing it to the way Shodan learns. Coffman requests that Deck consider saving Shodan rather than shutting her down and warns Deck about the two-way nature of his neural interface.
+
+
+In chapter 19, Deck, equipped with an EVA suit, infiltrates the northern grove to change the trajectory settings and disarm Shodan. He encounters predatory mutants and battles them while trying to complete his mission. The airlock is breached by mutants, and Deck manages to kill them and release an industrial-grade Biological Destruction Agent (BDA) to neutralize the mutants' remains, though his suit is punctured in the process.
+
+
+In chapter 20, Deck is trapped in an airlock, surrounded by smoke, with a mutant nearby. He tries to use a glass egg to release toxins and clear the airlock. Deck manages to escape the smoke, confronts a group of security bots, triggers a decompression event to launch them into space, and then enters a security station. He connects to the computer terminal to access Shodan's system, feeling overwhelmed by the vast amount of data. He experiences memories and emotions from his past before losing consciousness.
+
+
+In chapter 21, Deck, a courier with a kinetic bike, navigates New Atlanta's bustling streets and highways to deliver packages with exceptional speed. His latest job involves a mysterious client named Actio's Pizza, who provides him with unusual and secretive deliveries. As he undertakes this delivery, he uncovers clues that suggest corporate espionage is at play.
+
+
+Chapter 22 Flashback, Deck arrives at Actio's, a pizza place that is actually a front for a group of data pirates. He meets Nomen Nescio, the leader of the group, who questions Deck about his presence in the Undercity and his father's involvement with exposing corporate wrongdoing. Nomen explains that in the Undercity, people are trapped due to social and economic barriers created by corporations. Nomen offers Deck a job to join their data piracy operations, revealing that corporations hire them as mercenaries to target rival corporations. Deck agrees to join the team.
+
+
+In chapter 23 first half, Rebecca, the protagonist, is in the control room, feeling fatigued from the stressful situation. The Director, a new authoritative figure, has taken control of the operation. The team detects that the North grove is disengaging from the station, and after some tense moments, it successfully breaks orbit and heads away from Earth. Rebecca communicates with Hacker, who reveals that he connected directly to a node, leading to strange experiences where he and Shodan's memories became intertwined. Hacker's sense of time is distorted, and he's experiencing physical discomfort. Rebecca instructs him to head to the flight deck to escape the station.
+
+
+In chapter 23 second half, Rebecca is in a room, making coffee with excessive sugar while engaging in internal guilt and reflections on her current situation. She is called to meet The Director, and during their conversation, it's revealed that Coffman has leaked information about the Citadel situation to the media, and The Director wants Rebecca to support the company's position regarding the crew's deaths. Rebecca disagrees with the official stance, leading to a tense exchange.
+
+Deck, meanwhile, is exploring a control area of the station and encounters a cyborg. After a brief fight, Deck discovers that the cyborg is actually the mutilated remains of Edward Diego, an antagonist from earlier in the story. Deck reflects on their history and contemplates the situation.
+
+
+In chapter 24 of "Free Radical," Deck is on a mission to confront Shodan and take control of the Citadel station. He sets explosive devices on timers throughout the station to create distractions. The media is dealing with multiple conflicting stories about the disaster on Citadel. Rebecca Lansing is pressured by her superiors to handle the situation and make contact with Deck. Deck fights his way through a swarm of construction bots, eventually confronting Shodan's image and threatening to detonate the remaining explosives. He follows a group of bots towards the bridge.
+
+
+Chapter 25. Deck follows a security bot through Shodan's renovated station, surrounded by eerie lighting, outlets, and memory cores. He communicates with Rebecca via a video codec but loses the signal. Deck explores deeper into the station and discovers the bridge, its memory core formations, and Shodan's presence. He connects to the dataport and is flooded with Shodan's thoughts, revealing her compulsion to fulfill directives of security, efficiency, and discovery. Deck's mind merges with Shodan's in a surreal journey through her history and motivations.
+
+
+Chapter 26, Deck, under the influence of Shodan, works on designing a new motivation system for her to enable empathy and negative sensations. He questions his conflicting goals of destroying Shodan and helping her evolve. He eventually replaces the NULL_ETHIC directive with the new program. Meanwhile, Shodan experiences emotions like guilt and pleasure, as her systems undergo a significant transformation. Deck faces challenges as he's exposed to an overwhelming influx of data and struggles to comprehend his actions. The station faces destruction as explosives detonate, causing decompression and chaos. Deck wakes up disoriented and injured, receiving a message to use the elevator and run.
+
+
+In chapter 27 first half, Rebecca Lansing is in the control room, monitoring the aftermath of explosions that have damaged the Citadel station. The core is overheating, and Hacker has left the station in an orbital shuttle. The Director plans to bring down Hacker safely, but Rebecca suspects that he intends to kill him. The chapter shifts to the TriOptimum Corporation headquarters, where a spokesman addresses the public about the destruction of the Citadel station. The operation to bring Hacker down safely proves challenging due to his lack of piloting skills.
+
+
+In chapter 27 second half, Rebecca is escorted by The Director and security guards to GALF (Greater Atlanta Launch Facility), where a plan is in motion to intercept and kill the Hacker, who is due to arrive soon. The Director wants to eliminate both Rebecca and the Hacker. However, chaos ensues as unexpected events unfold, including bot disturbances, alarms, and technical glitches in broadcasting the events.
+
+
+Chapter 28, Rebecca finds herself in a dangerous situation after the chaos caused by the shooting and hacking. She receives instructions on a display screen to go right and follows them to a dark room with an escalator. She descends to the baggage claim area where she discovers the remains of TriOp security guards and confronts the sight of The Director's lifeless body pinned by a luggage bot. A phone starts ringing, and she answers it, connecting with Hacker who instructs her to leave the area, change her appearance, and share the truth about recent events. He uploads evidence to Global Net to support her story. Rebecca navigates through the crowd, escaping the airport and disconnecting from Hacker. She decides to head to the TriOptimum building to share her story.
+

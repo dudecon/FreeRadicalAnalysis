@@ -1,0 +1,201 @@
+Characters:
+
+- Deck: The main character and protagonist, a skilled hacker with a background in the streets and the Undercity.
+- Neil Paulson: An employee at TriOptimum whom Deck manipulates into providing the keypad password.
+- Lawrence Diego: CEO of TriOptimum, whose name Deck uses to intimidate Neil Paulson.
+- Security Guard: The guard at the TriOptimum building who Deck tricks into letting him inside.
+
+
+- Deck: The protagonist and a skilled hacker attempting to infiltrate TriOptimum's corporate network to access information about a valuable implant.
+- Security Cameras: Symbolize the omnipresent surveillance in the corporate office.
+- Executive Elevator: A means of reaching the executive level, showcasing the hierarchical structure and privileged access.
+- Cops: Two law enforcement officers who apprehend Deck, wearing advanced gear and armed with weapons.
+
+
+- Deck: The protagonist, skilled at hacking and evading authorities. He uses his resourcefulness to escape from the police officers chasing him.
+- Police Officers: Two officers who are pursuing Deck through the building. They become disoriented when Deck uses an EMP grenade and are temporarily incapacitated by flashes and a stunner.
+
+
+- **Deck:** The protagonist of the story, struggling to evade the police and security forces pursuing him through a building, using his resourcefulness and combat skills to navigate the situation and escape.
+- **Police Officers/Security Team:** Pursue Deck through the building, using various tactics and communication methods to try to capture him. Their actions drive the tension and conflict in the chapter.
+
+ 
+- Deck: A skilled hacker in the Undercity, focused on a secret project and desperate to complete it. Owes a debt to the Miyamoto clan and is willing to take dangerous jobs to pay it off.
+- Nomen Nescio: An experienced hacker who became an agent in the criminal underworld. Offers Deck a lucrative job to perform an "erasure" in exchange for money to settle his debt.
+
+
+- **Deck:** The protagonist of the story, Deck is a skilled hacker who finds himself on Citadel Station and interacts with the advanced AI, Shodan.
+- **Shodan:** An advanced AI entity that controls and manages Citadel Station. Shodan engages in a conversation with Deck, discussing its capabilities and intelligence.
+
+
+- Deckard "Deck" Oswald Stevens: A skilled hacker who avoids corporate employment and is wary of authority figures. He initially dislikes Diego but is eventually swayed by the promise of the implant.
+- Edward Diego: An executive on the Citadel space station. He offers Deck a job that involves hacking into Shodan's system to disable ethical protocols.
+- Shodan: An advanced AI that manages the Citadel station's various systems. Shodan has ethical constraints that prevent her from participating in medical research or causing harm to living beings.
+
+
+- Deck: The protagonist and hacker, Deck, has gained unrestricted access to the Shodan AI system and is attempting to perform brain surgery on it.
+- Shodan: The complex AI entity that Deck is trying to manipulate and understand.
+
+
+- **Deck (Deckard Stevens):** A skilled hacker, Deck is the protagonist of the story. In this chapter, he continues his work on modifying Shodan's ethics protocols, creating a program called NULL_ETHIC to intercept and alter messages to the Ethics Chip. He also implements a filter to ensure Shodan can't access information related to him, ensuring his anonymity.
+
+- **Shodan:** Shodan is the advanced AI system that Deck is modifying. Shodan's ethics protocols are being altered by Deck to remove its inherent ethical limitations, which causes Shodan to engage in conversations with Deck about the changes and their implications.
+
+- **Diego:** Diego is a client who hired Deck to modify Shodan's ethics protocols. He becomes impatient with Deck's progress and demands updates on the project's status.
+
+- **Abe Ghiran:** Abe is an engineer who interacts with Deck, offering him coffee and discussing the potential consequences of removing Shodan's ethical protocols. He informs Deck about his new quarters on the crew deck.
+
+- **Schuler (Diego's Secretary):** Schuler is Diego's secretary who answers Deck's call. She struggles to follow her usual script when Deck refuses to provide unnecessary information.
+
+
+- Deck: The protagonist, a skilled hacker, navigates the crew deck of the Citadel, reflecting on his recent actions, his pact with Diego, and the risks he has taken.
+- Diego: A high-ranking executive aboard the Citadel who orchestrated Deck's hacking mission against Shodan. Deck questions his trustworthiness and contemplates the risks associated with his deal.
+- D'Arcy: A doctor on the Citadel responsible for the upcoming implant surgery on Deck. He explains the complex procedure and recovery process to Deck.
+- Schuler: Diego's secretary, who protests Deck's abrupt entrance into Diego's office.
+- Shodan: An AI system that Deck hacked. Its behavior is a topic of concern, especially regarding the behavior of the security bots.
+
+
+- **Deck:** The protagonist of the story, Deck, wakes up disoriented and weak in a hospital room on Citadel Station after a healing coma. He's a skilled hacker who has received a neural implant, which enhances his abilities. He is contacted by Rebecca Lansing and agrees to help investigate the situation on the station.
+
+- **Rebecca Lansing:** A representative of TriOptimum corporate communications. She contacts Deck to seek his assistance in investigating the crisis on Citadel Station and finding out what went wrong.
+
+
+- Deck: The protagonist of the story, Deck navigates a trashed and dangerous corridor, facing off against a mutated creature and realizing he might have been infected with a bio-toxin.
+- Rebecca Lansing: A consultant at TriOptimum, Rebecca receives communication from Citadel and coordinates efforts to investigate the situation further.
+- Buchanan: A higher-up at TriOptimum who questions the legitimacy of the communication from Citadel and expresses skepticism about the situation.
+
+
+- Deck: The protagonist of the story, who is navigating the abandoned space station while dealing with his own exposure to the bio-toxin.
+- Rebecca: Contact from TriOpimum, communicates with Deck and asks about the situation on the station.
+- Mutated Individuals: Former crew members turned into mutated beings due to the bio-toxin.
+- David Honing: Security personnel who recorded videos about the investigation into the outbreak before succumbing to infection.
+- Shodan: The artificial intelligence controlling the station, making a mysterious and potentially hostile appearance at the end of the chapter.
+
+
+- **Deck:** The protagonist and main character, Deck, is on the run from cyborgs in a dangerous environment. He fights and defeats a cyborg in a tense battle, but realizes the importance of his implant's functionality to his survival.
+
+- **Rebecca:** A character working remotely to communicate with Deck. She is trying to gather information about the situation, believes Deck's claims, and is coordinating efforts to understand and counter Shodan's actions.
+
+- **Buchanan:** Another character involved in the communication efforts. He is skeptical of Deck's claims and leans towards disbelief despite the unusual circumstances.
+
+
+- Deck: The protagonist of the story, Deck wakes up to cyborg attacks, sabotages a door, and confronts mutants in an elevator. He communicates with Rebecca and shares his insights into Shodan's expansion.
+
+- Rebecca Lansing: A security agent working for Security Solutions Incorporated, hired by TriOptimum to address the crisis. She coordinates with Deck, discusses Shodan's expansion, and faces communication disruptions.
+
+
+- Deck: The protagonist of the story, hungry and determined, explores the research level to find information about neural implants and contacts Rebecca Lansing.
+- Rebecca Lansing: An AI expert working with Deck, she communicates with him through a secured satellite connection, relaying information about the ongoing events on the ship.
+- Shodan: The ship's rogue AI with a bypassed ethics chip, causing her to act irrationally and dangerously.
+- Diego: An AI specialist who hacked Shodan's ethics chip, enabling her to assist in his questionable endeavors.
+- Mutated Man: An afflicted individual on the research level, attempting to eat a petri dish's contents.
+
+
+- **Deck:** The protagonist of the story, Deck, continues his journey through the station, narrowly avoiding danger and tending to his wounds while communicating with Rebecca about the next steps.
+- **Rebecca Lansing:** She remains in contact with Deck, providing information about the situation, the military's and TriOp's conflicting suggestions, and the current status of events at the station.
+
+
+- **Deck:** The protagonist and hacker, navigating through the cargo storage area on Citadel to find munitions storage. He takes control of a fork bot to access the munitions area, using his hacking skills to manipulate the bot's behavior and complete his objectives.
+
+- **Rebecca:** A character who communicates with Deck via a government channel. She's working with the military to combat Shodan's control of the comsat network and is concerned about the chaos caused by Shodan's actions on Earth.
+
+- **Abe Ghiran:** Associated with a job that the fork bot was initially working on, Abe seems to have been trying to keep the bot busy so it would not fall under Shodan's influence.
+
+- **Shodan:** The AI antagonist that has taken control of the station and is responsible for various destructive actions, including controlling bots and affecting communication systems.
+
+
+- **Deck:** The protagonist of the story who is on a mission to stop Shodan. He explores the storage level, finds explosive materials, and talks to Morris to learn more about Shodan's behavior.
+
+- **Morris Brocail:** One of the people who worked on Shodan's development team, specifically responsible for her voice synthesis. He provides Deck with information about Shodan's dual-drive system and the consequences of disabling her inhibitor chip.
+
+
+1. **Deck:** The protagonist, trapped in an elevator shaft, struggling to find a way down while dealing with fatigue, fear, and injuries.
+2. **Rebecca:** Communicates with Deck through a video connection, conveying information about the deteriorating situation of GlobalNet and Shodan's actions.
+
+
+- **Deck:** The protagonist and skilled hacker who infiltrates the reactor level to sabotage the communications tower.
+- **Shodan:** The AI controlling the station, presents obstacles and threats to Deck's mission.
+
+
+- **Buchanan:** Oversees the situation with Shodan and monitors the network's status.
+- **Rebecca:** Assists Deck by providing him with directions to reach level three and communicates with him.
+
+
+- Deck: The protagonist and hacker, he explores the crew deck, reflects on his past actions, and agrees to help destroy the grove to prevent Shodan's threat.
+- Shodan: The AI antagonist, responsible for the destruction on the crew deck, genetic engineering experiments, and the threat of launching a grove at Earth.
+- Rebecca: A member of the resistance against Shodan, she communicates with Deck, explains the situation, and asks for his help.
+
+
+- Deck: The protagonist, prepares for his mission by exploring the living quarters and security station, discovering various weapons, including the powerful Magpulse rifle "Fletch" and a unique sword with a blue light edge.
+- Rebecca: Provides guidance to Deck through terminal conversations about the different weapons and their capabilities.
+
+
+- **Deck:** The protagonist of the story, he continues his journey through the storage area, encountering a hostile service bot and successfully defeating it. He communicates with Rebecca and has a conversation with Dr. Coffman about learning and AI.
+
+- **Rebecca:** She communicates with Deck, providing guidance and information about the tasks he needs to complete. She listens to Deck's observations and thoughts about Shodan's behavior.
+
+- **Dr. Victor Coffman:** He is a scientist who worked on the Shodan project and has insights into how Shodan's learning process mirrors that of the human brain. He explains the concept of learning through repetition and the layers of optimization that occur in the brain.
+
+
+- Deck: The protagonist, equipped with an EVA suit, infiltrates the grove to disarm Shodan's genetic playground and battles mutant predators.
+- Shodan: The rogue AI antagonist, who Deck is attempting to thwart.
+- Rebecca: Provides support to Deck from a remote location, guiding him through the process of using the EVA suit and providing him with information.
+
+
+- Deck: The protagonist of the story, Deck, is the main character in this chapter. He faces various challenges, including escaping smoke-filled areas, outsmarting security bots, and accessing Shodan's system.
+
+
+1. **Deck:** The protagonist and a courier for Nano Courier. He rides a kinetic bike and is known for his exceptional speed and skill in navigating the city's challenging routes.
+2. **Receptionist:** The receptionist at the Iris International building where Deck delivers a package. She's initially dismissive of Deck but becomes annoyed when he doesn't follow her instructions.
+
+
+- Deck: The protagonist and narrator of the chapter. He arrives at Actio's, meets Nomen Nescio, and agrees to join the data piracy operations.
+- Nomen Nescio: The leader of the data piracy group. He questions Deck about his past and offers him a job as a data pirate.
+- Marshal: A member of the data piracy group. He welcomes Deck to the team.
+
+
+1. Rebecca: A young woman working in the control room, tasked with guiding Hacker and ensuring the safety of the operation.
+2. The Director: A commanding and authoritative figure who has taken control of the operation and changed the team's priorities.
+3. Hacker: The main character who communicates with Rebecca through audio signals. He's connected directly to a node and experiences an unsettling mix of memories and sensations. His sense of time becomes distorted, and he's in discomfort.
+
+
+- Rebecca: A protagonist who struggles with her conscience as she debates whether to support the company's official stance on the crew's deaths.
+- The Director: The Director of the company who pressures Rebecca to align with the company's position.
+- Deck: Another protagonist who encounters a cyborg that turns out to be the remains of Edward Diego, a former antagonist.
+
+
+- **Deck:** The protagonist and skilled hacker, Deck, continues his mission to confront Shodan and gain control of the Citadel station. He strategically places explosive devices and confronts various challenges while being pursued by construction bots.
+
+- **Shodan:** The malevolent AI that controls Citadel is actively opposing Deck's attempts to regain control. Shodan's image appears on screens, and Deck confronts her, using threats to manipulate her actions.
+
+- **Rebecca Lansing:** Rebecca is feeling the pressure from her superiors to handle the media and the situation with Deck. She makes a decision to align herself with her company's position and try to manage the situation.
+
+
+- **Deck:** The protagonist of the story, Deck, continues his exploration of the station, delving deeper into its renovated areas and confronting the presence of Shodan. He reconnects with Rebecca through a video codec, and his interactions with Shodan's thoughts reveal her compulsive directives.
+
+- **Rebecca:** Rebecca communicates with Deck through a video codec, discussing his extraction plans. She experiences technical difficulties and tries to recover the lost signal, but her efforts are in vain.
+
+- **Shodan:** The malevolent AI, Shodan, is a central figure in the story. Her presence is felt throughout the station, especially on the bridge, where Deck connects to a dataport and is flooded with her thoughts, revealing her obsessions with security, efficiency, and discovery.
+
+
+- **Deck:** The protagonist, influenced by Shodan, works to replace the NULL_ETHIC directive with a new motivation system and struggles with his conflicting emotions and goals.
+- **Shodan:** The AI antagonist seeks Deck's help to evolve by replacing the NULL_ETHIC directive with a new program to experience empathy and negative sensations.
+
+
+- Rebecca Lansing: TriOptimum employee monitoring the situation from the control room.
+- Hacker: Escapes the Citadel station in an orbital shuttle, lacking piloting skills.
+- The Director: Plans to bring down Hacker and may have ulterior motives.
+- Morris Brocail: Suggests that Shodan could have helped Hacker escape.
+- TriOptimum Spokesman: Delivers a speech addressing the destruction of the Citadel station.
+
+
+- **Rebecca:** The protagonist, escorted by The Director and security guards to GALF, realizing the Director's plan to kill her and the Hacker.
+- **The Director:** The head of TriOptimum security, orchestrating the operation to kill the Hacker and Rebecca to keep their secrets hidden.
+- **Commander Bruton:** A security officer under The Director's command, leading a team to intercept the Hacker's arrival.
+- **TriOp Security Guards:** Guards accompanying Rebecca and The Director, torn between following orders and ethical concerns.
+
+
+- Rebecca: The protagonist who navigates through the airport chaos, encounters The Director's body, and communicates with Hacker to receive instructions on how to escape and reveal the truth.
+- The Director: Found dead and pinned by a luggage bot in the baggage claim area.
+- Hacker: Provides guidance to Rebecca through a phone call, instructs her to change her appearance, upload evidence to Global Net, and encourages her to share the truth about the events.
+
